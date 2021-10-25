@@ -7,3 +7,6 @@ def test_add(x):
 def test_product(y):
     return y*2
 
+def test_add2(x,y):
+    z=x+y
+    return z
